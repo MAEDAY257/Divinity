@@ -5,7 +5,7 @@
   "version": "0.7.0",
   "authors": [
     {
-      "name": "You",
+      "name": "Maeday",
       "flags": {}
     }
   ],
@@ -18,5 +18,8 @@
   ],
   "styles": [
     "styles/turn-cinematic.css"
-  ]
+  ],
+  "url": "https://github.com/MAEDAY257/Divinity",
+  "manifest": "https://github.com/MAEDAY257/Divinity/blob/main/module.json",
+  "download": "https://github.com/MAEDAY257/Divinity/blob/main/Divinity-main.zip"
 }
